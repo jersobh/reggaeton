@@ -2,6 +2,17 @@
 
 Reggaeton is a visual regression tool designed to compare two images and highlight the differences with a visual indication. It's particularly useful for identifying changes or anomalies in visual content over time or between versions.
 
+## Example
+### Images to be compared
+
+<img src="https://raw.githubusercontent.com/jersobh/reggaeton/master/original.png" alt="Original image" width="450" />
+<br />
+<img src="https://raw.githubusercontent.com/jersobh/reggaeton/master/modified.png" alt="Modified image" width="450" />
+
+### Output image
+
+<img src="https://raw.githubusercontent.com/jersobh/reggaeton/master/output.png" alt="Output image" width="450" />
+
 ## Installation
 
 You can install Reggaeton directly from PyPI:
