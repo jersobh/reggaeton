@@ -1,0 +1,122 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually used for converting scripts into standalone executables
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+# https://pipenv.pypa.io/en/latest/
+Pipfile.lock
+
+# poetry
+# https://python-poetry.org/
+poetry.lock
+
+# pytest
+pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# virtual environments
+venv/
+*.venv
+env/
+*.env
+.env
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# JupyterLab
+.jupyterlab-config
+
+# DS_Store: macOS folder attributes
+.DS_Store
+
+# SQLite database files commonly used as SQLite for applications
+*.db
+*.sqlite3
+*.sqlite
+
+# dotenv environment variables file
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log
+*.csv
+
+# Other files and directories to ignore
+tmp/
+temp/
