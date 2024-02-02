@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="reggaeton",
-    version="0.1.0",
+    version="0.1.2",
     author="jersobh",
     author_email="jersobh@gmail.com",
     description="Reggaeton is simple image comparison tool for detecting regressions in images.",
