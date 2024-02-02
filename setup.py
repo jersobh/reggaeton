@@ -21,7 +21,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'reggaeton-cli=reggaeton.reggaeton_cli:main',
+            'reggaeton=reggaeton_cli:main', 
         ],
     },
     python_requires='>=3.6',
