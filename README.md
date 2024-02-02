@@ -27,7 +27,7 @@ This command compares before and after images and saves the output image with di
 You can also use Reggaeton in your Python scripts:
 
 ```python
-from reggaeton.reggaeton import compare_images
+from reggaeton import compare_images
 
 result_image = compare_images('path/to/before.jpg', 'path/to/after.jpg')
 if result_image is not None:
